@@ -1,4 +1,5 @@
-# socket-io
-actividad cliente servidor con socket io
- Integrante 1: Daniel Julian Sena Causil grupo A
- Integrante 2: Sebastian Bermudez Ceballos Grupo B
+# Chat_informatica
+chat de informatica con socket.io
+integrante 1: daniel julian sena causil grupo a 
+integrante 2: sebastian bermudez ceballos grupo b
+
